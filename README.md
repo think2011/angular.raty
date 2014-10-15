@@ -17,7 +17,7 @@ angular封装的评分插件-raty
 ## 使用
 ```
 js:
-angular.module('app'), ['raty'];
+ angular.module('app'), ['raty'];
 
 html:
  <div raty ng-model="xxx"></div>
