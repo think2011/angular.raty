@@ -12,7 +12,7 @@ angular封装的评分插件-raty
 [jQuery Raty](https://github.com/wbotelhos/raty)
 
 ## demo
-![demo](http://github.com/think2011/angular.raty/raw/master/demo/1.png)
+![demo](https://raw.github.com/think2011/angular.raty/master/demo/1.gif)
 
 ## 使用
 ```
